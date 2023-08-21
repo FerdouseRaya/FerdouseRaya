@@ -1,5 +1,6 @@
+![MasterHead](https://trisya.com/myimg/child/Website%20Design.gif)
 <h1 align="center">Hi 👋, I'm Jannat Ara Ferdouse Raya</h1>
-<h3 align="center">A passionate full-stack developer from Bangladesh</h3>
+<h3 align="center">Trainee Software Engineer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferdouseraya&label=Profile%20views&color=0e75b6&style=flat" alt="ferdouseraya" /> </p>
 
