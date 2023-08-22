@@ -73,8 +73,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferdouseraya&show_icons=true&locale=en" alt="ferdouseraya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferdouseraya&" alt="ferdouseraya" /></p>
-<div align="center"> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferdouseraya&" alt="ferdouseraya" /></p>-->
+<div align="center"> 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+</div>
+-----
+Credits: [Jannat Ara Ferdouse Raya](https://github.com/FerdouseRaya)
 
-
-
+Last Edited on: 22/08/2023
