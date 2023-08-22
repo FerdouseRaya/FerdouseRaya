@@ -1,12 +1,12 @@
 ![MasterHead](https://trisya.com/myimg/child/Website%20Design.gif)
 <h1 align="center">Hi 👋, I'm Jannat Ara Ferdouse Raya</h1>
 <h3 align="center">Trainee Software Engineer from Bangladesh</h3>
-
+<p>I'm Jannat Ara Ferdouse Raya, a budding software enthusiast from Bangladesh. As a dedicated trainee software engineer, I'm on a relentless journey to immerse myself in the intricate world of technology. Currently, my focus is on mastering the intricacies of the MERN stack, where I'm diving deep into the intricacies of MongoDB, Express.js, React, and Node.js. But my aspirations don't stop at development alone. I'm equally captivated by the wonders of data science.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferdouseraya&label=Profile%20views&color=0e75b6&style=flat" alt="ferdouseraya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ferdouseraya" alt="ferdouseraya" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jannata98952944" target="blank"><img src="https://img.shields.io/twitter/follow/jannata98952944?logo=twitter&style=for-the-badge" alt="jannata98952944" /></a> </p>
 
 - 🌱 I’m currently learning **MangoDB, Node Js**
 
@@ -18,6 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/jannata98952944" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jannata98952944" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jannat-ara-ferdouse-raya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jannat-ara-ferdouse-raya" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jannat_raya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jannat_raya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferdouseraya&show_icons=true&locale=en" alt="ferdouseraya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferdouseraya&" alt="ferdouseraya" /></p>
+
