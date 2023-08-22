@@ -14,7 +14,7 @@
 - 💬 Ask me about **HTML,CSS,MongoDB**
 
 - 📫 How to reach me **ferdouse.raya@bjitacademy.com**
-
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jannata98952944" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jannata98952944" height="30" width="40" /></a>
@@ -22,6 +22,7 @@
 <a href="https://www.hackerrank.com/jannat_raya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jannat_raya" height="30" width="40" /></a>
 </p>
 
+---
 
 <details>
 <summary>
@@ -45,6 +46,9 @@
 <code><img height="20" src="https://banner2.cleanpng.com/20181122/krs/kisspng-java-programming-language-selenium-computer-softwa-july-2-16-halab-4-dev-5bf78387a7bb41.028192901542947719687.jpg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 </details>
+
+---
+
 <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
 
 <!--- stats & Trophy (start) -->
@@ -74,8 +78,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferdouseraya&show_icons=true&locale=en" alt="ferdouseraya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferdouseraya&" alt="ferdouseraya" /></p>-->
-
------
-Credits: [Jannat Ara Ferdouse Raya](https://github.com/FerdouseRaya)
-
-Last Edited on: 22/08/2023
